@@ -82,4 +82,34 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin: 40rem;
+  }
+
+  main .img {
+   width: 40%;
+   margin: 10px;
+  }
+  
+  /* Main End */
+
+  /* SECTION THREE START */
+  .section-three {
+    margin-left: 5rem;
+  }
+   
+  .section-three .primary-headings {
+    margin-bottom: 10rem;
+  }
+
+  .list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .section-three img {
+    width: 400px;
+    height: 500px;
+    margin: 50px;
   }
